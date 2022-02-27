@@ -15,7 +15,7 @@ export default function Home() {
 				<h1 className={styles.title}>Code of saturday tonight</h1>
 
 				<p className={styles.description}>
-					Get started by editing{' '}
+					This is real? I can't believe it{' '}
 					<code className={styles.code}>pages/index.js</code>
 				</p>
 
